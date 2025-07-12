@@ -1,4 +1,4 @@
-# 🇮🇳 COVID‑19 India Data Analysis
+#COVID‑19 India Data Analysis
 
 **Dataset**: Active cases, deaths, vaccine stats, and state-wise trends in India
 
